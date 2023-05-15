@@ -1,0 +1,39 @@
+.wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1rem;
+    background-color: #403C0C;
+    color: #F2F2F2;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    padding-top: 1rem;
+    padding-bottom: 17rem;
+}
+
+img {
+    max-width: 150px;
+    height: auto;
+    float: left;
+    padding-right: 1.5rem;
+}
+
+table thead tr th {
+    display: inline-block;
+    font-weight: 900;
+    font-size: 1.15rem;
+}
+
+.name {
+    background-color: #2C733D;
+    padding: .5rem;
+    padding-left: 1.5rem;
+}
+
+.paragraph {
+    margin-left: 1.5rem;
+    line-height: 1.5rem;
+}
+
+.table {
+    background-color: #2C733D;
+    padding: 1.5rem;
+}
